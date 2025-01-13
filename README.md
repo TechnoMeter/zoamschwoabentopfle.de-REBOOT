@@ -1,5 +1,7 @@
-# schwabentoepfle.de
- Responsive website built with HTML5, CSS, and JavaScript. Crafted with ❤️ for 'zoam Schwoabetöpfle,' a traditional Swabian restaurant.
+# zoamschwabentoepfle.de
 
-Made with ❤️ by Shriram Govindarajan
-Parent Repository URL: https://github.com/TechnoMeter/schwabentoepfle.de.github.io
+https://zoamschwoabentopfle.de/
+
+ Responsive website built with HTML5, CSS, and Bootstrap. Crafted with ❤️ by Shriram Govindarajan, for 'zoam Schwoabetöpfle,' a traditional Swabian restaurant.
+
+Parent Repository URL: https://github.com/TechnoMeter/schwabentoepfle-REBOOT
