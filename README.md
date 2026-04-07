@@ -36,17 +36,13 @@ Email Forwarding: Enabled a professional email address without additional hostin
 Menu Card Overhaul: The original website used images of the menu cards, making it hard to read and update. I used OCR tools to extract the data and created a responsive table, improving usability and future editing.
 Aesthetic Alignment: Created a custom Swabian design that embodied the client’s rustic brand identity while incorporating modern features.
 
-Previous vs New Website
+Previous and New Website
 
 Previous Design:
 https://digitalni-jelovnici.webnode.hr/
 
 Redesigned Website:
 https://zoamschwoabentopfle.de
-
-
-🚀 Live Demo
-Check out the live site: https://zoamschwoabentopfle.de
 
 ❤️ Acknowledgments
 I’ve included the previous website design in this repository, not to diminish the efforts of the previous developer but to highlight the journey of growth and transformation. My goal was to demonstrate how I approached the project with the mindset that if I’m entrusted with something, I will treat it like my own and give it my best.
@@ -60,7 +56,6 @@ The Zoam Schwoabetöpfle team for their unwavering support and collaboration.
 Shriram Govindarajan
 
 LinkedIn: [Shriram Govindarajan](https://www.linkedin.com/in/shriram-govindarajan/)
-GitHub: [TechnoMeter](https://github.com/TechnoMeter)
 
 🏆 Lessons Learned
 Balancing Functionality and Aesthetics: A good website is as much about the visual identity as it is about features.
